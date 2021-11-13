@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"col-lg",
+				"col-lg-2"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"col",
+				"col-lg-12"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"col-",
+				"col-lg-3"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"bac",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgro",
+				"background-position\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"Co",
+				"container"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"mee",
+				"meet-ria-section"
+			],
+			[
+				"spa",
+				"space"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ho",
+				"Home"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"gr",
+				"grid-x"
+			],
+			[
+				"grid",
+				"grid-container-fluid"
+			],
+			[
+				"te",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"large",
+				"large-2"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"lar",
+				"large-3"
+			],
+			[
+				"bann",
+				"banner-image"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"r",
+				"required\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"FO",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"background-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"j",
+				"justify-content-between"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"img",
+				"image"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shankarkumar/Healthy/image/CartButton.png",
+		"/Users/shankarkumar/nav.html",
+		"/Users/shankarkumar/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/shankarkumar/Portfolio/custom.js",
+		"/Users/shankarkumar/Downloads/untitled.js",
+		"/Users/shankarkumar/Portfolio/css/custom.js",
+		"/Users/shankarkumar/index.html",
+		"/Users/shankarkumar/Portfolio/index.html",
+		"/Users/shankarkumar/Portfolio/images/viva-group.jpg",
+		"/Users/shankarkumar/Portfolio/images/hal-con.jpg",
+		"/Users/shankarkumar/Healthy/index.html",
+		"/Users/shankarkumar/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/shankarkumar/Healthy/css/style.css",
+		"/Users/shankarkumar/Healthy/css.css/style.css",
+		"/Users/shankarkumar/Healthifyme/css/style.css",
+		"/Users/shankarkumar/Healthifyme/index.html",
+		"/Users/shankarkumar/Desktop/Healthifyme/style.css",
+		"/Users/shankarkumar/Desktop/Healthifyme/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 131.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 186.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
